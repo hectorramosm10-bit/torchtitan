@@ -9,6 +9,7 @@
 [![devlogs](https://img.shields.io/badge/PyTorch-DevLog-DE3412.svg)](https://docs.pytorch.org/devlogs/)
 [![license](https://img.shields.io/badge/license-BSD_3--Clause-lightgrey.svg)](./LICENSE)
 [![pip](https://img.shields.io/pypi/v/torchtitan?color=blue)](https://pypi.org/project/torchtitan/)
+
 [![conda](https://img.shields.io/conda/vn/conda-forge/torchtitan?color=green)](https://anaconda.org/conda-forge/torchtitan)
 
 [Quick start](#quick-start) · [Models](#supported-models) · [Features](#features) · [RL](torchtitan/rl/README.md) · [Docs](#documentation) · [Contributing](#contributing)
